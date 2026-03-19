@@ -6,7 +6,7 @@ A modern monorepo setup with three integrated applications:
 - **CMS**: Payload CMS 2.x with MongoDB
 - **Backend**: Medusa.js v2 ecommerce platform
 
-## Project Structure   
+## Project Structure      
 
 ```
 ├── frontend/          # Next.js 14 application
